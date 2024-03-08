@@ -1,0 +1,3 @@
+[submodule "practices/algorithms"]
+	path = practices/algorithms
+	url = https://github.com/imeugeneco/algo.git
